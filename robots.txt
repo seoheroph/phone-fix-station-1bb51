@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://seoheroph.github.io/phone-fix-station-1bb51/sitemap.xml
